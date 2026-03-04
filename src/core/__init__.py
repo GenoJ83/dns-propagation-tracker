@@ -1,0 +1,1 @@
+"""Core DNS structures."""
