@@ -1,0 +1,1 @@
+"""Continuous propagation poll watcher."""
